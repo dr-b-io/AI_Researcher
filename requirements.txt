@@ -6,3 +6,4 @@ python-dotenv
 Requests
 uvicorn
 tiktoken
+openai
